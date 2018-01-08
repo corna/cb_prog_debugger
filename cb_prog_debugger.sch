@@ -1545,4 +1545,12 @@ F 3 "" H 7500 3700 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1400 6700 1400 6650
+Text Label 2600 2900 0    60   ~ 0
+USBHOST+
+Text Label 2600 3000 0    60   ~ 0
+USBHOST-
+Text Label 3800 5550 0    60   ~ 0
+USBDBG+
+Text Label 3800 5650 0    60   ~ 0
+USBDBG-
 $EndSCHEMATC
